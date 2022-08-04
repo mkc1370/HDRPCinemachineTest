@@ -3,3 +3,5 @@
 
 # HDRPCinemachineSample
 HDRPでのCinemachineやVolumeについての検証用
+
+HDRPのサンプルのプロジェクト（`3D Sample Scene(HDRP) v12.5.0`）を使用していますが、`Assets/SampleSceneAssets`のライセンスが怖いのでignoreしています。
